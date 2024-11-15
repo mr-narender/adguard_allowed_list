@@ -28,6 +28,7 @@
 @@||redditmail.com^
 @@||boo.world^
 @@||boo-prod.b-cdn.net^
+@@||firebaseapp.com^
 @@||activated.win^
 @@||edge-chat.instagram.com^
 @@||windows.net^

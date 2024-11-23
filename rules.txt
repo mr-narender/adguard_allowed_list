@@ -36,3 +36,5 @@
 @@||instagram.com^
 @@||synology.me^
 @@||ted.com^
+@@||usebraintrust.acemlnb.com^$important
+@@||email-link.adtidy.org^$important

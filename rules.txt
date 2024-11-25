@@ -39,3 +39,4 @@
 @@||usebraintrust.acemlnb.com^$important
 @@||email-link.adtidy.org^$important
 @@||usebraintrust.activehosted.com^
+@@||talenteq.intuit.com^

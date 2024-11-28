@@ -42,4 +42,5 @@
 @@||talenteq.intuit.com^
 @@||terafileshare.com^
 @@||costco.com^
+@@||costco.ca^
 @@||dpm.demdex.net^

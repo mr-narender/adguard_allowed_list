@@ -40,3 +40,6 @@
 @@||email-link.adtidy.org^$important
 @@||usebraintrust.activehosted.com^
 @@||talenteq.intuit.com^
+@@||terafileshare.com^
+@@||costco.com^
+@@||dpm.demdex.net^
